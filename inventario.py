@@ -12,7 +12,7 @@ articulos = [
     ["A002", "PlayStation 5", 15, 10],
     ["A003", "teclado inalambrico", 3, 8],
     ["A004", "Mouse inalambrico", 7, 7],
-    ["A005", "USB", 2, 12]
+    ["A005", "Silla Gamer", 2, 12]
 ]
 
 print("=== LISTA DE PEDIDOS ===")
